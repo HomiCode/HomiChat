@@ -1,5 +1,5 @@
 # 📨 HomiChat
-## _Asynchronous Chatroom with Django and Channels_
+## _Asynchronous Chatroom with Django and Django-Channels_
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/78617923/209372639-744d1800-34a2-4d7a-a680-c664a44e5ee9.png)
